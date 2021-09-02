@@ -1,0 +1,10 @@
+8/1/2021
+	>>Idea ++ ("SearTalkWithULoves", "SearBlog")
+
+8/5/2021
+	>>Object ++ ("SearBlog")
+	>>Idea -- ("SearTalkWithLoves")
+
+8/10/2021
+	>>Idea ++ ("Arcade Lobby")
+	>>Object("Tools", Button) => ("Arcade Lobby", Button)
